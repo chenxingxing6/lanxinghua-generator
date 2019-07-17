@@ -1,0 +1,14 @@
+target/
+*.DS_Store
+.idea/
+*.iml
+*.ipr
+*.iws
+*.classpath
+*.project
+.settings/
+/bin
+*.tar
+*.tar.gz
+*.zip
+accessLogRotateFilter*
